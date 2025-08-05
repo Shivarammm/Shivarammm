@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Shivaram
-- 👀 I’m interested in app development 
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on creating application 
-- 📫 How to reach me - github
 
-<!---
-Shivarammm/Shivarammm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💼 About Me
+- 📊 **Data Analyst**
+- 🐍 Skilled in **Python**, **Excel**, **SQL**, **Power BI**, and **AWS**
+- 🚀 Passionate about transforming data into actionable insights
+- 🎯 Goal: Build impactful data solutions and grow in the analytics field
+
+---
+
+## 🛠 Skills & Tools
+- **Programming:** Python  
+- **Data Analysis:** Excel, Power BI  
+- **Databases:** SQL  
+- **Cloud:** AWS  
+- **Other Tools:** Git, GitHub
+
+---
